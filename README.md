@@ -1,6 +1,6 @@
-# save_data
+# Shared preferences in Flutter
 
-A new Flutter which shows you how to use shared preferences in the Flutter.
+A Flutter app which shows you how to use shared preferences.
 
 ## Getting Started
 
